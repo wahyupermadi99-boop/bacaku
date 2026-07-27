@@ -1,0 +1,6 @@
+{
+  "name": ".bacaku - Book Tracker",
+  "description": "Aplikaci book tracker Android dengan pencatatan progress, ringkasan bab AI otomatis, pengingat harian, target bulanan, grafik interaktif, mode gelap, gamifikasi lencana, dan kartu share sosial media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

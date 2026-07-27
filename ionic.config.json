@@ -1,0 +1,7 @@
+{
+  "name": "Bacaku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
